@@ -10,9 +10,7 @@ public class Ji_u {
 		Go[] go = new Go[3];
 		go[0] = pikachu;
 		
-		pikachu.attack();
-		pikachu.attack2();
-		pikachu.attack3();
+		
 
 	}
 
